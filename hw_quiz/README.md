@@ -1,5 +1,10 @@
-# __First step__
-#### run the command
+# Quiz Game
+---
+##### Here you can answer for a few questions and get some points 
+## Few simple steps to install this project
+---
+
+### 1. Do this command to clone my repo
 
 ```
 git clone https://github.com/arinapruzhinina/rpm-hws_7-2_2023
@@ -9,30 +14,24 @@ cd rpm-hws_7-2_2023
 ```
 ```
 git checkout pruzhinina
+
 ```
-
-# __Second step__
-
-#### move to folder hw_quiz:
+### 2. You need to move folder with name hw_http.
 
 ```
 cd hw_quiz
 ```
 
-
-#### Create a docker container
-###### change the access rights to the script:
+### 3. You need to create a docker container. Follow this few steps.
 
 ```
 chmod +x script.sh
 ```
-###### run the file to fill the database:
-
 ```
 ./script.sh
 ```
-# __Third step__
-#### create .env file according to the example
+
+### 4. Create .env file in this folder with this text.
 
 ```
 PG_HOST=127.0.0.1
@@ -41,10 +40,8 @@ PG_USER=app
 PG_PASSWORD=123
 PG_DBNAME=quiz_db
 ```
-# __Fourth step__
 
-#### run main.py
-
+## Everything is ready to run the project. Do command:
 ```
 python3 main.py
 ```

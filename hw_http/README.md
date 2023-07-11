@@ -1,7 +1,7 @@
 # HTTP cities serever
 #### On this http server, you can POST/PUT/DELETE cities, and view hotels in different cities.
 
-## Few simple step to install this project
+## Few simple steps to install this project
 
 ### 1. Do this command to clone my repo
 
