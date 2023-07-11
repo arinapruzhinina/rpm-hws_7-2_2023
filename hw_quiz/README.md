@@ -1,8 +1,8 @@
 # Quiz Game
----
+
 ##### Here you can answer for a few questions and get some points 
 ## Few simple steps to install this project
----
+
 
 ### 1. Do this command to clone my repo
 
